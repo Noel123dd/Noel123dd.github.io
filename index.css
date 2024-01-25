@@ -1,0 +1,47 @@
+.Super {
+    text-align: center;
+    font-family:monospace;
+    color:rgb(5, 5, 71);
+    font-size: larger;
+    margin: auto;
+   margin-left: 655px;
+    
+}
+h1 {
+    margin-top: 0;
+}
+
+body{background-color: #b0daf9;}
+
+
+
+#books{float: right; height: 100px;}
+#bookss{float: left; height: 100px}
+#HH{float: left; margin-right: 20px; background-color: rgb(107, 186, 255); border: black 5px;}
+br{font-size: 10px;}
+
+.PP{
+    font-family: monospace;
+    font-size: large;
+}
+
+.content {
+    font-family: monospace;
+    font-size: large;
+}
+.header{display: flex; flex-direction: row;}
+
+#hello {
+    font-family: monospace;
+    font-size: large;
+
+}
+
+.picture {
+    display: flex; flex-direction: row;
+    border-radius: 0
+    ;
+    
+}
+#aitxt{margin-left: 20px; }
+
